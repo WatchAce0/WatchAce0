@@ -1,4 +1,4 @@
-## <h1 align="center">Joe DiGioia - Web Developer & Digital Creator</center>
+## <h1 align="center">Joe DiGioia - Web Developer & Graphic Designer</center>
 <h2 align="center">
 👋 I'm Joe, a web developer with a knack for turning ideas into interactive applications. I blend my experience in web development, digital content creation, and business development to produce exceptional digital products.
 
