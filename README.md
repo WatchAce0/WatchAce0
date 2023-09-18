@@ -50,22 +50,30 @@
 </p>
 
 # <h2>🛠️ Projects</h2>
-# <h3>WhatEchoesBack.com - Digital Collectible Platform</h3>
-- Built with Next.js, Tailwind CSS; hosted on Vercel.
-- In-app currency using Stripe API, idle game mechanics, interactive digital card collection, and more.
+# <h3><a target="blank" href="https://www.whatechoesback.com">WhatEchoesBack.com</a> - Digital Collectible Platform</h3>
+- A digital collectible platform offering in-app currency, idle game rewarding currency and interactive card collections.
+- Developed using React, Next.js, Firebase, Tailwind CSS, and the Stripe API. Hosted on Vercel.
 
-# <h3>Resovar.com - MIDI Generator Platform for Music Producers</h3>
-- Developed in Next.js with Tailwind CSS; hosted on Netlify.
-- Membership system using Stripe API, MIDI generators and much more.
+# <h3><a target="blank" href="https://www.resovar.com">Resovar.com</a> - MIDI Generator Platform for Music Producers</h3>
+- A MIDI generation platform tailored for modern music producers, providing memberships and in-app currency.
+- Developed using React, Next.js, Firebase, Tailwind CSS, and the Stripe API. Hosted on Netlify.
 
-# <h3>Movie Info Quick - Movie Details Fetcher</h3>
-- Built with Svelte & Tailwind CSS; fetches movie data via the Online Movie Database Open API.
+# <h3><a target="blank" href="https://flowerpydemo.ue.r.appspot.com/">Deep-Learning PyTorch Flower Classifier</a> - Real-Time Image Classifier</h3>
+- This project is a deep learning-based flower classification system built using PyTorch.
+- The model is trained on a dataset containing images of five different types of flowers: Daisy, Dandelion, Rose, Sunflower, and Tulip. 
+- The project also includes a web demo built with Flask, allowing users to upload an image and get a prediction in real-time. Hosted on Google Cloud Platform.
 
-# <h3>Key & BPM Finder - Song Key & BPM Data Fetcher</h3>
-- Uses the Spotify API for song data retrieval. Built with React and Tailwind CSS.
+# <h3><a target="blank" href="https://jolly-faun-11653f.netlify.app/">Move Info Quick</a> - Movie Details Fetcher</h3>
+- A quick and efficient movie details fetcher. 
+- Developed using Svelte, Tailwind CSS, and the Online Movie Database API. Hosted on Netlify.
 
-# <h3>Temperature Finder - Real-time Temperature Checker</h3>
-- Developed in Vue.js and Tailwind CSS; utilizes OpenWeatherAPI.
+# <h3><a target="blank" href="https://transcendent-blancmange-418a93.netlify.app/">Key & BPM Finder</a> - Song Key & BPM Data Fetcher</h3>
+- An instant song analyzer, retrieving key and BPM for any Spotify track.
+- Developed using React, Tailwind CSS, and the Spotify API. Hosted on Netlify.
+
+# <h3><a target="blank" href="https://jovial-sfogliatella-369c77.netlify.app/">Temperature Finder</a> - Real-time Temperature Checker</h3>
+-  A temperature checker providing data based on a user specified zipcode.
+-  Developed using Vue.js, Tailwind CSS, and the OpenWeather API. Hosted on Netlify.
 
 # <h2>📚 Education</h2>
 ## <h3></h3>Duquesne University, Pittsburgh, PA</h3>
