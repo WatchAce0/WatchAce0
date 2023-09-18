@@ -79,7 +79,7 @@
 -  Developed using Vue.js, Tailwind CSS, and the OpenWeather API. Hosted on Netlify.
 
 # <h2>📚 Education</h2>
-## <h3></h3>Duquesne University, Pittsburgh, PA</h3>
+## <h3>Duquesne University, Pittsburgh, PA</h3>
 - Bachelor of Arts, Multimedia Development (Cum Laude)
 - Dean’s List (2006 - 2010)
 <!---
