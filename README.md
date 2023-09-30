@@ -53,7 +53,7 @@
 </p>
 
 # <h2>🛠️ Projects</h2>
-# <h3><a target="blank" href="https://www.soconu.com">Soconu.com</a> - Numbed Based Puzzle Game</h3>
+# <h3><a target="blank" href="https://www.soconu.com">Soconu.com</a> - Number Based Puzzle Game</h3>
 - A puzzle game where you have 3 attempts to solve a 3x3 grid of numbers, using feedback from your previous guesses to determine the final answer. Complete with leaderboards, stat tracking and local storage for a persistent game state.
 - Developed using React, Next.js, Firebase, Tailwind CSS. Hosted on Netlify.
 
